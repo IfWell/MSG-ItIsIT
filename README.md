@@ -11,3 +11,6 @@ This project was created to make Web Crawler
 >   - 점프 투 파이썬 (Jump to Python)
 > - 웹 크롤링 (Web Crawling)
 >   - 파이썬으로 웹 크롤러 만들기 (Web Scraping with Python)
+
+> 필요한 라이브러리 (Libraries you need)
+> - BeautifulSoup
