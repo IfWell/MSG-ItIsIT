@@ -14,3 +14,5 @@ This project was created to make Web Crawler
 
 > 필요한 라이브러리 (Libraries you need)
 > - BeautifulSoup
+>   - BeautifulSoup 설치 방법 (How to download BeautfiulSoup)
+>     1. https://shaeod.tistory.com/900
